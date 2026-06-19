@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **AurenNZH/AurenNZH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Who Am I
+What Am I Working On
+What Tools do I use
+How to Reach Me
+
+I'm Auren, a Malaysian 🇲🇾 studying MSc Sensor Systems at Imperial College London 🇬🇧. I'm currently focused on implementing an 🦼 Intelligent Path-Finding Algorithm for a Powered Wheelchair for my MSc project. You can find projects I've worked on in the past here, such as a 💻 Low Noise High Bandwidth Instrumentation Amplifier PCB, a :magnet Magnetic Levitation Platform, and a 🏎️ Line-Following Buggy. <!-- You can also explore my university lab-work such as DSDII and XXX -->
+
+Within these projects I have gained familiarity with the following tools / programming languages:
+ - Smart Wheelchair          --> Python, ROS2, CAN Communication, Computer Vision (YOLO)
+ - Instrumentation Amplifier --> Embedded C, EasyEDA, Electronics Fault-finding with Testbenches
+ - MagLev Platform           --> Embedded C, Arduino, MATLAb & Simulink
+ - Line-Following Buggy      --> Embedded C, Altium Designer
+
+I am graduating September 2026, and am looking for employment in the UK. If you are interested, please📎download my CV and we can have a chat! 
