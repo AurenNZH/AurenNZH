@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Auren, a Malaysian 🇲🇾 studying MSc Sensor Systems at Imperial College London 🇬🇧. I'm currently focused on implementing an 🦼 Intelligent Path-Finding Algorithm for a Powered Wheelchair for my MSc project. You can find projects I've worked on in the past here, such as a 💻 Low Noise High Bandwidth Instrumentation Amplifier PCB, a :magnet Magnetic Levitation Platform, and a 🏎️ Line-Following Buggy. <!-- You can also explore my university lab-work such as DSDII and XXX -->
+I'm Auren, a Malaysian :malaysia: studying MSc Sensor Systems at Imperial College London 🇬🇧. I'm currently focused on implementing an 🦼 Intelligent Path-Finding Algorithm for a Powered Wheelchair for my MSc project. You can find projects I've worked on in the past here, such as a 💻 Low Noise High Bandwidth Instrumentation Amplifier PCB, a :magnet Magnetic Levitation Platform, and a 🏎️ Line-Following Buggy. <!-- You can also explore my university lab-work such as DSDII and XXX -->
 
 Within these projects I have gained familiarity with the following tools / programming languages:
  - Smart Wheelchair          --> Python, ROS2, CAN Communication, Computer Vision (YOLO)
