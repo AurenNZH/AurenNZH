@@ -26,4 +26,4 @@ Within these projects I have gained familiarity with the following tools / progr
 
 I am graduating September 2026, and am looking for employment in the UK. I am open to firmware & hardware-based roles in electronics, particularly in RF and embedded applications.
 
-If you are interested, please📎download my CV and we can have a chat! 
+If you are interested, please📎[download my CV](https://github.com/AurenNZH/AurenNZH/blob/main/Auren%20Ng%2C%20CV_New.pdf) and we can have a chat! 
