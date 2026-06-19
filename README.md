@@ -19,9 +19,11 @@ I'm Auren, a Malaysian studying MSc Sensor Systems at Imperial College London. Y
 
 Within these projects I have gained familiarity with the following tools / programming languages:
  - 🦼 Smart Wheelchair          --> Python, ROS2, CAN Communication, Computer Vision (YOLO)
- - 💻 Instrumentation Amplifier --> Embedded C, EasyEDA, Electronics Fault-finding with Testbenches
+ - 💻 Instrumentation Amplifier --> Embedded C, EasyEDA, LTSPice, LT Power Planner, Ansys HFSS (EM simulation tool)
  - 🧲 MagLev Platform           --> Embedded C, Arduino, MATLAb & Simulink
  - 🏎️ Line-Following Buggy      --> Embedded C, Altium Designer
 <!-- Add Uni Lab Work Here -->
 
-I am graduating September 2026, and am looking for employment in the UK. If you are interested, please📎download my CV and we can have a chat! 
+I am graduating September 2026, and am looking for employment in the UK. I am open to firmware & hardware-based roles in electronics, particularly in RF and embedded applications.
+
+If you are interested, please📎download my CV and we can have a chat! 
