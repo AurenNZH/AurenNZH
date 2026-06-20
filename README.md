@@ -21,7 +21,7 @@ Within these projects I have gained familiarity with the following tools / progr
  - 🦼 Smart Wheelchair          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 --> Python, ROS2, CAN Communication, Computer Vision (YOLO)
  - 💻 Instrumentation Amplifier &nbsp;                                                                                               --> Embedded C, EasyEDA, LTSPice, LT Power Planner, Ansys HFSS (EM simulation tool)
  - 🧲 MagLev Platform           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           --> Embedded C, Arduino, MATLAb & Simulink
- - 🏎️ Line-Following Buggy      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                     --> Embedded C, Altium Designer
+ - 🏎️ Line Following Buggy      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                     --> Embedded C, Altium Designer
 <!-- Add Uni Lab Work Here -->
 
 I am graduating September 2026, and am looking for employment in the UK. I am open to firmware & hardware-based roles in electronics, particularly in RF and embedded applications.
