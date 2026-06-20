@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Auren, a Malaysian studying MSc Sensor Systems at Imperial College London. You can find projects I've worked on in the past here. <!-- and also explore my university work. -->
 
 Within these projects I have gained familiarity with the following tools / programming languages:
- - 🦼 Smart Wheelchair          --> Python, ROS2, CAN Communication, Computer Vision (YOLO)
+ - 🦼 Smart Wheelchair          &nbsp;&nbsp;&nbsp;&nbsp; --> Python, ROS2, CAN Communication, Computer Vision (YOLO)
  - 💻 Instrumentation Amplifier --> Embedded C, EasyEDA, LTSPice, LT Power Planner, Ansys HFSS (EM simulation tool)
  - 🧲 MagLev Platform           --> Embedded C, Arduino, MATLAb & Simulink
  - 🏎️ Line-Following Buggy      --> Embedded C, Altium Designer
